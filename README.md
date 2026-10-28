@@ -1,4 +1,5 @@
-# NLP Sentiment Classification on Customer Reviews #
+# TASK 2 #
+ # NLP Sentiment Classification on Customer Reviews #
 
 # Project Overview
 This project uses Natural Language Processing (NLP) and machine learning to classify customer reviews as positive, negative, or neutral.
